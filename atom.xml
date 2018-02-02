@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/CatYangBlog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="CatYang1994.github.io-/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2018-02-02T02:04:15.865Z</updated>
-  <id>CatYang1994.github.io-/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="CatYang1994.github.io-/2018/02/02/hello-world/"/>
-    <id>CatYang1994.github.io-/2018/02/02/hello-world/</id>
+    <link href="http://yoursite.com/2018/02/02/hello-world/"/>
+    <id>http://yoursite.com/2018/02/02/hello-world/</id>
     <published>2018-02-02T02:04:15.865Z</published>
     <updated>2018-02-02T02:04:15.865Z</updated>
     
